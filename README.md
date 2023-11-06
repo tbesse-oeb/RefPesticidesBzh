@@ -1,5 +1,6 @@
 # RefPesticidesBzh
- Référentiel régional sur les substances actives phytosanitaires
+Développement et actualisation du référentiel régional sur les substances actives phytosanitaires publié sur le portail OpenData de l'OEB : 
+ https://data.bretagne-environnement.fr/datasets/description-des-substances-actives-phytosanitaires-en-bretagne
  
 Installation
 ------------
